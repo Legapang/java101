@@ -1,5 +1,5 @@
 # Readme
 
-Get start
+Get start with intellij
 
 ###Learning git
